@@ -1,0 +1,5 @@
+			printf("error: %i \n", struct_map.error);
+			printf("empty: %c \n", struct_map.empty);
+			printf("full: %c \n", struct_map.full);
+			printf("obs: %c \n", struct_map.obstacle);
+			printf("lines: %i \n", struct_map.lines);
