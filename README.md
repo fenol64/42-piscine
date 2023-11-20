@@ -4,19 +4,13 @@ This repository has my code developed during [@42rio](https://42.rio/) C bootcam
 
 ## About 42
 
-42 is a global education initiative that proposes a new way of learning technology: no teachers,
-	no classrooms, students learning from their fellow students (peer to peer learning), with a
-	methodology that develops both computing and life skills. The 42 cursus is free for whoever is
-	approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp,
-	is the last stage in the selection process for becoming a "cadet" (42's student).
-
-<p align="center">
+42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students 
+(peer-to-peer learning), with a methodology that develops both computing and life skills. The 42 cursus is free for whoever is approved in its selection process.
+The so-called “Piscine”, a 26-day C programming bootcamp, is the last stage in the selection process for becoming a “cadet” (42’s student). 🚀👩‍💻
 
 [![Photo of a 42rio's lab](https://42.rio/wp-content/uploads/2021/12/a-42-slider1.jpg)](https://42.rio/)
 
-</p>
-
-## Curriculum
+## My Progress
 
 |#	|SUBJECT		|LANGUAGE	|STATUS											|GRADE	|
 |:-:|:--			|:-:		|:-: 											|:-:	|
